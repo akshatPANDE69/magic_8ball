@@ -1,0 +1,40 @@
+ /*thanks for using my code i am a 13yr/old who just started coding pls support me, hope u like it*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono|Volkhov');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Volkhov", Georgia, Times, serif;
+}
+
+body {
+  font-family:  "Ubuntu", Helvetica, Arial, sans-serif;
+  color: #646464;
+  background-color: #c7f71b;
+  margin: 0 10%;
+  text-align: center;
+}
+
+div {
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+.code {
+  font-family: "Ubuntu-Mono", Courier, monospace;
+  background-color: #EAEAEA;
+  white-space: pre;
+  margin: 2ex 0;
+}
+
+#main {
+  background-color: #9696c0;
+  font-size: 32px;
+  margin: 1ex auto;
+  padding: 1ex 10%;
+  display: inline-block;
+  text-align: center;
+}
+
+#next {
+  cursor: pointer;
+  text-shadow: 0 1px 2px #555;
+}
